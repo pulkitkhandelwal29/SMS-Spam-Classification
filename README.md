@@ -1,8 +1,10 @@
 # SMS Spam Classification
+https://pulkit-khandelwal.medium.com/sms-spam-classifier-natural-language-processing-1751e2b324ed
 <hr>
 In this particular project, we are classifying the text as Spam or Ham
 
 Using **Natural Language Processing**
+
 
 ## Data
 Data is downloaded from https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
